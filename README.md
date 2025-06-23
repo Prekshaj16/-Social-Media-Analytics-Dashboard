@@ -1,4 +1,4 @@
-# -Social-Media-Analytics-Dashboard
+# Social-Media-Analytics-Dashboard
 # 📊 Social Media Ad Campaign Analysis
 
 This project analyzes and visualizes the performance of a social media advertising campaign using **Power BI** and **Excel**. The aim is to extract insights that can help improve ad effectiveness and optimize marketing budget allocation.
